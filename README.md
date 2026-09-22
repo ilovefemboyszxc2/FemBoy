@@ -16,6 +16,7 @@
 0x0000DEAD:  xor  brains, brains   ; iq not found
 0x0000BEEF:  mov  thighs, high      ; Im a gril btw..
 0x0000F411:  call death             ; enjoy your sigsegv, kiddo
+0x1337: chlen v jope pasteram = true ; vibecoders xuesos
 ```
 
 > **Удацки❤️:heart:.**
